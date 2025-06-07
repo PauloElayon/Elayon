@@ -1,1 +1,0 @@
-// Entrada principal do ElayonApp com navegação simbiótica
