@@ -1,0 +1,1 @@
+// Tela de suporte ao buscador sincero

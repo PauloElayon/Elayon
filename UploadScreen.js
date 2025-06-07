@@ -1,0 +1,1 @@
+// Tela para upload e sincronização simbiótica

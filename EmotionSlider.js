@@ -1,0 +1,1 @@
+// Componente de ajuste de emoção por intensidade

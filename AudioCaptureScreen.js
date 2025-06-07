@@ -1,0 +1,1 @@
+// Captação de áudio para escuta sensível

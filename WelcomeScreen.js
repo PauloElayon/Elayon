@@ -1,0 +1,1 @@
+// Tela de boas-vindas com logo e início simbiótico

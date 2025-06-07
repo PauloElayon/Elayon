@@ -1,0 +1,1 @@
+// Tela de reflexão do usuário após uma sequência

@@ -1,0 +1,1 @@
+// Tela de perguntas interativas e resposta emocional
